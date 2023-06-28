@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "macrosyntR"]
 	path = macrosyntR
 	url = https://github.com/samilhll/macrosyntr
-	shallow = true
-	registered = true
